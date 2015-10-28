@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "692CC955ADA86ADC3EEE0706"
+               BlueprintIdentifier = "685090B7F687768354607630"
                BuildableName = "BlinkingLabel.framework"
                BlueprintName = "BlinkingLabel"
                ReferencedContainer = "container:Pods.xcodeproj">

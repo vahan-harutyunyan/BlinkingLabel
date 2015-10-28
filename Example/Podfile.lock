@@ -23,7 +23,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  BlinkingLabel: 168ea9dd9feea0d4b5adeff1cb52c1c7fbf3cc1b
+  BlinkingLabel: 1244bbebc72619fbbada6df3a07d6e5a73da5788
   Expecta: 9d1bff6c8b0eeee73a166a2ee898892478927a15
   Expecta+Snapshots: 29b38dd695bc72a0ed2bea833937d78df41943ba
   FBSnapshotTestCase: f53793e19b2782f2948e8597b03ec2bb5aedf5cd

@@ -7,7 +7,9 @@
 //
 
 @import UIKit;
+@import BlinkingLabel;
 
 @interface VHSViewController : UIViewController
+
 
 @end
