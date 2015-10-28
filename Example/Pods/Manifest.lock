@@ -1,0 +1,32 @@
+PODS:
+  - BlinkingLabel (0.1.0)
+  - Expecta (1.0.3)
+  - Expecta+Snapshots (2.0.0):
+    - Expecta (~> 1.0)
+    - FBSnapshotTestCase/Core (~> 2.0.3)
+  - FBSnapshotTestCase (2.0.6):
+    - FBSnapshotTestCase/SwiftSupport (= 2.0.6)
+  - FBSnapshotTestCase/Core (2.0.6)
+  - FBSnapshotTestCase/SwiftSupport (2.0.6):
+    - FBSnapshotTestCase/Core
+  - Specta (1.0.4)
+
+DEPENDENCIES:
+  - BlinkingLabel (from `../`)
+  - Expecta
+  - Expecta+Snapshots
+  - FBSnapshotTestCase
+  - Specta
+
+EXTERNAL SOURCES:
+  BlinkingLabel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BlinkingLabel: 168ea9dd9feea0d4b5adeff1cb52c1c7fbf3cc1b
+  Expecta: 9d1bff6c8b0eeee73a166a2ee898892478927a15
+  Expecta+Snapshots: 29b38dd695bc72a0ed2bea833937d78df41943ba
+  FBSnapshotTestCase: f53793e19b2782f2948e8597b03ec2bb5aedf5cd
+  Specta: 69bb134672aae190a1379ff91df07dad8dd1f869
+
+COCOAPODS: 0.38.2
